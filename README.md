@@ -1,16 +1,18 @@
-### Hi there 👋
+<span style="font-family: 'Hack';"></span>
+# Hi I'm HyPhen 👋 
 
-<!--
-**HyPhen404/HyPhen404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-Here are some ideas to get you started:
+### :page_with_curl: About me
+👾 Welcome to my profile!  <br>
+:octocat: My name is *Rohan Singh*. <br>
+💻     Just some guy, who wants to EXPLORE & LEARN everything. <br>
+🌟 FOSS!
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Things i Like to do :
+- 📚 Read
+- 🏀 Play Basketball
+- 🌐 Explore New Technologies
+- 🤖 Code!
+- 🍥 Design
+- :wrench: Develop
