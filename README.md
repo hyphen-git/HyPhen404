@@ -16,3 +16,11 @@
 - 🤖 Code!
 - 🍥 Design
 - :wrench: Develop
+
+
+
+- 🔭 I’m currently learning Java
+- 📫 How to reach me: hyphen91522@gmail.com
+
+
+#### :bookmark: This readme is not yet completed!
