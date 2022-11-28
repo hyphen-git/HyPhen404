@@ -7,7 +7,7 @@
 👾 Welcome to my profile!  <br>
 :octocat: My name is *Rohan Singh*. <br>
 💻     Just some guy, who wants to EXPLORE & LEARN everything. <br>
-🌟 FOSS!
+🌟 Linux & FOSS!
 
 ##### Things i Like to do :
 - 📚 Read
