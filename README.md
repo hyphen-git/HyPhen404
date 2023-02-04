@@ -40,9 +40,9 @@ Hi 👋 , I'm Rohan Singh 💻.
 </h3>
 <hr>
             
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyPhen404)](https://github.com/HyPhen404/github-readme-stats)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyPhen404&show_icons=true&theme=transparent)](https://github.com/HyPhen404/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyPhen404)](https://github.com/HyPhen404/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyPhen404&show_icons=true&theme=transparent)](https://github.com/HyPhen404/github-readme-stats)
 
 
 
